@@ -1,7 +1,9 @@
 @charset "UTF-8";
 
 /* Mobile first styles */
-
+.nav-link.active {
+    color: #5398D9;
+}
 
 /* Extra small devices (portrait phones, 576px and higher)
 –––––––––––––––––––––––––––––––––––––––––––––––––– */

@@ -20,32 +20,32 @@
                 <div class="row">
                     <div class="col-md-6 m-btm-md">
                         <div class="item bg-primary-2">
-                            <img src="images/portfolio-items/posters/Abeka_Poster.jpg" alt="porfolio poster">
+                            <img src="images/portfolio-items/posters/Abeka_Poster.jpg" alt="portfolio poster">
                         </div>
                     </div>
                     <div class="col-md-6 m-btm-md">
                         <div class="item bg-primary-2">
-                            <img src="images/portfolio-items/posters/Library_Poster.jpg" alt="porfolio poster">
+                            <img src="images/portfolio-items/posters/Library_Poster.jpg" alt="portfolio poster">
                         </div>
                     </div>
                     <div class="col-md-6 m-btm-md">
                         <div class="item bg-primary-2">
-                            <img src="images/portfolio-items/posters/Eagles_Poster.jpg" alt="porfolio poster">
+                            <img src="images/portfolio-items/posters/Eagles_Poster.jpg" alt="portfolio poster">
                         </div>
                     </div>
                     <div class="col-md-6 m-btm-md">
                         <div class="item bg-primary-2">
-                            <img src="images/portfolio-items/posters/PG_Poster.jpg" alt="porfolio poster">
+                            <img src="images/portfolio-items/posters/PG_Poster.jpg" alt="portfolio poster">
                         </div>
                     </div>
                     <div class="col-md-6 m-btm-md">
                         <div class="item bg-primary-2">
-                            <img src="images/portfolio-items/posters/Ads_Poster.png" alt="porfolio poster">
+                            <img src="images/portfolio-items/posters/Ads_Poster.png" alt="portfolio poster">
                         </div>
                     </div>
                     <div class="col-md-6 m-btm-md">
                         <div class="item bg-primary-2">
-                            <img src="images/portfolio-items/posters/RickS_Poster.jpg" alt="porfolio poster">
+                            <img src="images/portfolio-items/posters/RickS_Poster.jpg" alt="portfolio poster">
                         </div>
                     </div>
                 </div>

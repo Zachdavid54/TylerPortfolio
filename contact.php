@@ -21,7 +21,7 @@
                     <div class="col-md-12">
                         <img class="m-btm-md" src="images/contact_photo.jpg" alt="contact_photo">
                         <h2>What do I do?</h2>
-                        <p>I am currenctly a Digital Designer for Pensacola Christian College.</p>
+                        <p>I am currently a Digital Designer for Pensacola Christian College.</p>
                     </div>
                 </div>
             </div>

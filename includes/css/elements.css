@@ -2,12 +2,10 @@
 
 /* Mobile first styles */
 
-/*Typography
-–––––––––––––––––––––––––––––––––––––––––––––––––– */
+/* Typography */
 
 
-/*Buttons
-–––––––––––––––––––––––––––––––––––––––––––––––––– */
+/* Buttons */
 a {
 	color: #14325C;
 	font-weight: 500;
@@ -44,8 +42,7 @@ a:hover {
 	border-color: #5398D9;
 }
 
-/*Colors
-–––––––––––––––––––––––––––––––––––––––––––––––––– */
+/* Colors */
 .primary-1 {
 	color: #F5F5F5;
 }
@@ -86,8 +83,7 @@ a:hover {
 	background-color: #FFF;
 }
 
-/* Spacing
-–––––––––––––––––––––––––––––––––––––––––––––––––– */
+/* Spacing */
 .well-sm {
 	padding-top: 10px;
 	padding-bottom: 10px;
@@ -223,21 +219,14 @@ a:hover {
 	margin-right: 60px !important;
 }
 
-/* Forms & Dropdown Selects
-–––––––––––––––––––––––––––––––––––––––––––––––––– */
+/* Forms & Dropdown Selects */
+
+/* Lists */
+
+/* Accordions */
 
 
-/* Lists
-–––––––––––––––––––––––––––––––––––––––––––––––––– */
-
-
-/* Accordions
-–––––––––––––––––––––––––––––––––––––––––––––––––– */
-
-
-
-/* Extra small devices (portrait phones, 576px and higher)
-–––––––––––––––––––––––––––––––––––––––––––––––––– */
+/* Extra small devices (portrait phones, 576px and higher) */
 @media (min-width: 576px) {
 	.p-md {
 		padding: 30px;
@@ -248,8 +237,7 @@ a:hover {
 	}
 }
 
-/* Small devices (landscape phones, 768px and higher)
-–––––––––––––––––––––––––––––––––––––––––––––––––– */
+/* Small devices (landscape phones, 768px and higher) */
 @media (min-width: 768px) {
 	.well-lg {
 		padding-top: 60px;
@@ -257,12 +245,10 @@ a:hover {
 	}
 }
 
-/* Medium devices (tablets, 992px and higher)
-–––––––––––––––––––––––––––––––––––––––––––––––––– */
+/* Medium devices (tablets, 992px and higher) */
 @media (min-width: 992px) {}
 
-/* Large devices (desktops, 1200px and higher)
-–––––––––––––––––––––––––––––––––––––––––––––––––– */
+/* Large devices (desktops, 1200px and higher) */
 @media (min-width: 1200px) {}
 
 /* Extra large devices (large desktops)

@@ -40,6 +40,13 @@ img {
   width: 150px;
 }
 
+.divide-bar {
+  width: 30px;
+  height: 4px;
+  background-color: #5398D9;
+  margin: 0 auto;
+}
+
 /* .sidebar {
   position: fixed;
   right: 0;

@@ -4,17 +4,14 @@
 
 <head>
   <meta name="description" content="Tevs Creative is...">
-  <meta name="keywords" content="Tevs Creative,Tevs,Creative,Web Design,Tyler Evans, Web Develope">
+  <meta name="keywords" content="Tevs Creative,Tevs,Creative,Web Design,Tyler Evans, Web Developer">
   <?php include("includes/CSSInclude.php");?>
   <title><?php print $PAGE_TITLE;?></title>
-  <style>
-
-  </style>
 </head>
 
 <body>
-  <div class="header-bar"></div>
-  <?php include("includes/navigation.php");?>
+<div class="header-bar"></div>
+<?php include("includes/navigation.php");?>
 <div class="container-fluid">
   <div class="row">
     <div class="col-md-8 offset-md-2">
@@ -64,9 +61,9 @@
     </div>
   </div>
 </div>
-  <?php include("includes/footer.php");?>
+<?php include("includes/footer.php");?>
 
-  <?php include("includes/JSInclude.php");?>
+<?php include("includes/JSInclude.php");?>
 </body>
 
 </html>

@@ -3,7 +3,7 @@ $ini = parse_ini_file('app.ini');
 ?>
 
 <nav class="navbar navbar-expand-lg m-btm-md p-md">
-  <a class="navbar-brand logo" href="#">
+  <a class="navbar-brand logo" href="/">
     <img src="/images/tevs-logo.svg" class="d-inline-block align-top" alt="">
   </a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
@@ -21,9 +21,6 @@ $ini = parse_ini_file('app.ini');
         <a class="btn btn-primary<?php if ($CURRENT_PAGE == " Contact") {?> active
           <?php }?>" href="<?php echo $ini['base_url']; ?>/contact.php">Get In Touch</a>
       </li>
-      <!-- <li class="nav-item">
-        <a href="mailto:tevs.creative@gmail.com" class="btn btn-primary">Get In Touch</a>
-      </li> -->
     </ul>
   </div>
 </nav>

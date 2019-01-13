@@ -10,22 +10,6 @@ img {
   width: 100%;
 }
 
-/* a.nav-link {
-  font-size: 2rem;
-  border: none;
-  padding: .25rem;
-} */
-
-/* a.nav-link:hover {
-  color: #5398D9;
-  font-size: 2rem;
-} */
-
-.logo a {
-  border: none;
-  display: block;
-}
-
 .header-bar {
   background: linear-gradient(45deg, #5398D9 0%, #14325C 100%);
   height: 10px;
@@ -36,8 +20,31 @@ img {
   z-index: 1;
 }
 
+.nav-link.active {
+  color: #5398D9;
+}
+
+.navbar-expand-lg .navbar-nav a {
+  margin-left: 2rem;
+  text-transform: uppercase;
+  font-weight: 400;
+}
+
+.navbar-expand-lg .navbar-nav .nav-link {
+  border: none;
+}
+
+.logo a {
+  border: none;
+  display: block;
+}
+
 .logo img {
   width: 150px;
+}
+
+a.logo {
+  border: none;
 }
 
 .divide-bar {
@@ -47,39 +54,29 @@ img {
   margin: 0 auto;
 }
 
-/* .sidebar {
-  position: fixed;
-  right: 0;
-  height: 100vh;
-} */
-
-/* .sidebar-content {
-  margin: 0;
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-} */
-
 /* Extra small devices (portrait phones, 576px and higher)
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
-@media (min-width: 576px) {}
+@media (min-width: 576px) {
+
+}
 
 /* Small devices (landscape phones, 768px and higher)
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 @media (min-width: 768px) {
-  /* .sidebar {
-    text-align: right;
-  } */
+
 }
 
 /* Medium devices (tablets, 992px and higher)
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
-@media (min-width: 992px) {}
+@media (min-width: 992px) {
+
+}
 
 /* Large devices (desktops, 1200px and higher)
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
-@media (min-width: 1200px) {}
+@media (min-width: 1200px) {
+  
+}
 
 /* Extra large devices (large desktops)
    No media query since the extra-large breakpoint has no upper bound on its width */
